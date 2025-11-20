@@ -331,7 +331,7 @@ DOMAIN="rhyuunet.biz.id"
 IPVPS=$(curl -s ipv4.icanhazip.com)
 
 # === Generate Subdomain Random ===
-SUBDOMAIN=$(cat /dev/urandom | tr -dc a-z0-9 | head -c 5)
+SUBDOMAIN="do11"
 RECORD="$SUBDOMAIN.$DOMAIN"
 
 # === Get Zone ID dari Cloudflare ===
