@@ -1,4 +1,8 @@
 ### INSTALL SCRIPT 
+```
+apt update && apt upgrade -y && update-grub && sleep 2 && reboot
+```
+
 <pre><code>wget -q https://raw.githubusercontent.com/ProVPN-Xhach/ProVPN/main/waduk.sh && chmod +x waduk.sh && ./waduk.sh
 </code></pre>
 
