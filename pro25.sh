@@ -327,7 +327,7 @@ CF_ID="dm.napoli10@gmail.com"
 CF_KEY="213f142bc6f2e4a8f9060566a97a7bce2518d"
 
 # === DOMAIN UTAMA ===
-DOMAIN="rajavpn11.dpdns.org"
+DOMAIN="rhyuunet.biz.id"
 IPVPS=$(curl -s ipv4.icanhazip.com)
 
 # === Generate Subdomain Random ===
